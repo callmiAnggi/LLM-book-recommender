@@ -2,6 +2,7 @@
 A semantic book recommendation demo using OpenAI embeddings and LangChain, deployed with Gradio on Hugging Face Spaces.
 
 🚀 **Live Demo:** [Try it on Hugging Face](https://anggi99-book-recommender9.hf.space)  
+![Uploading image.png…]()
 
 ---
 ### 🧠 Project Overview
