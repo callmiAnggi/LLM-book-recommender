@@ -1,0 +1,10 @@
+fastapi
+gradio
+uvicorn
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pandas
+numpy
+python-dotenv
