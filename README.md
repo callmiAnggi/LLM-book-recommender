@@ -2,9 +2,8 @@
 A semantic book recommendation demo using OpenAI embeddings and LangChain, deployed with Gradio on Hugging Face Spaces.
 
 🚀 **Live Demo:** [Try it on Hugging Face](https://anggi99-book-recommender9.hf.space)  
-![Uploading image.png…]()
+---<img width="1879" height="800" alt="Screenshot 2025-10-27 135202" src="https://github.com/user-attachments/assets/4ff2d1e1-29f4-48e5-81d9-1570d34872ce" />
 
----
 ### 🧠 Project Overview
 This app uses `langchain` + `Chroma` vector search to find books similar to your description, filtered by category and emotional tone.
 
